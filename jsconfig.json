@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["./*"]
+      "@*": ["./*"] // take everything from the root Route
     }
   }
 }
